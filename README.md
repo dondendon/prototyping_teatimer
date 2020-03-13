@@ -6,6 +6,7 @@ This is the project for the **Prototyping for Interaction Design** class, with t
 ## My Concept
 
 I create design a timer for tea making, with a switch to set up the time, pressure sensor to trigger the timer, and a 4-digit LCD screen signifier to show the output.
+
 <img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/sketch.png" width="500" />
 
 ## Why Tea Timer?
