@@ -6,7 +6,7 @@ This is the project for the **Prototyping for Interaction Design** class, with t
 ## My Concept
 
 I create design a timer for tea making, with a switch to set up the time, pressure sensor to trigger the timer, and a 4-digit LCD screen signifier to show the output.
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/Untitled_Artwork-1%202.png" width="500" />
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/sketch.png" width="500" />
 
 ## Why Tea Timer?
 
@@ -23,12 +23,14 @@ The time of tea bag in the hot water will affect the quality of tea. However, th
 ## How does this work?
 
 1. Trigger the timer by holding the pressure sensor, start the count down.
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/count_1.gif" width="500" />
 
 
 2. Trigger the timer, and release before the countdown ends. It'll restart the timer.
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/count_2.gif" width="500" />
 
 3. Change the setting of the switch, the countdown timer change(from 16 to 19).
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/ezgif.com-crop.gif" width="500" />
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/count_3.gif" width="500" />
 
 
 ## The Board
@@ -36,7 +38,11 @@ The time of tea bag in the hot water will affect the quality of tea. However, th
 This is how I connect the accessories with Arduino board.
 
 
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/timer_bb.png" width="500" />
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/arduino_board.png" width="500" />
+
+And it looks like this:
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/board.png" width="500" />
+
 
 
 ## The Code
