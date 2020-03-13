@@ -23,12 +23,13 @@ The time of tea bag in the hot water will affect the quality of tea. However, th
 ## How does this work?
 
 1. Trigger the timer by holding the pressure sensor, start the count down.
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/ezgif.com-video-to-gif.gif" width="500" />
 
 
 2. Trigger the timer, and release before the countdown ends. It'll restart the timer.
 
 3. Change the setting of the switch, the countdown timer change(from 16 to 19).
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/ezgif.com-crop.gif" width="500" />
+
 
 ## The Board
 
