@@ -42,7 +42,7 @@ This is how I connect the accessories with Arduino board.
 <img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/arduino_board.png" width="500" />
 
 And it looks like this:
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/board.png" width="500" />
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/board.jpg" width="500" />
 
 
 
