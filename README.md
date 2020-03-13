@@ -38,7 +38,7 @@ This is how I connect the accessories with Arduino board.
 ![alt text](https://github.com/dondendon/prototyping_teatimer/blob/master/timer_bb.png
 )
 
-<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/timer_bb.png" width="40" height="40" />
+<img src="https://github.com/dondendon/prototyping_teatimer/blob/master/timer_bb.png" width="100" />
 
 
 ## The Code
