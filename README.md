@@ -24,10 +24,10 @@ The time of tea bag in the hot water will affect the quality of tea. However, th
 
 ## How does this work?
 
-Once the pressure sensor is triggered, the LED light bulb lights up, and the Digital display starts to count down.
-The countdown will only continue when there's pressure(the cup is on the timer). 
-If the pressure is released before the count down time reaches zero, the timer restarts, and the LED light and digital display turn off.
-Else if the count down reaches zero, the LED light and the digital display turn off.
+Once the pressure sensor is triggered, the LED light bulb lights up, and the Digital display starts to count down.<br>
+The countdown will only continue when there's pressure(the cup is on the timer). <br>
+If the pressure is released before the count down time reaches zero, the timer restarts, and the LED light and digital display turn off.<br>
+Else if the count down reaches zero, the LED light and the digital display turn off.<br>
 
 Here are some demo gif:
 1. Trigger the timer by holding the pressure sensor, start the count down.
@@ -55,10 +55,10 @@ And it looks like this:
 
 ## The Code
 
-The code consists of three parts, the main functions, the show digit functions, and the count down digit functions.
-The show digit function contains the logic of LED in different numbers, it will read the input of numbers and output the numbers on the LED screen.
-The count down digit functions will call the show digit function for numbers to show up, and handle different digits position showing logic in milliseconds.
-The main functions will check the switch setting every 20 milliseconds.And if the pressure sensor is pressed, it'll trigger the count down digit functions and start the count down process. After countdown or the pressure is released, it will reset the Arduino board to restart the timer.
+The code consists of three parts, the main functions, the show digit functions, and the count down digit functions.<br>
+The show digit function contains the logic of LED in different numbers, it will read the input of numbers and output the numbers on the LED screen.<br>
+The count down digit functions will call the show digit function for numbers to show up, and handle different digits position showing logic in milliseconds.<br>
+The main functions will check the switch setting every 20 milliseconds.And if the pressure sensor is pressed, it'll trigger the count down digit functions and start the count down process. After countdown or the pressure is released, it will reset the Arduino board to restart the timer.<br>
 
 ## The References
 1. 4-Digit 7-Segment Display
