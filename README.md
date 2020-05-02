@@ -16,13 +16,20 @@ The time of tea bag in the hot water will affect the quality of tea. However, th
 ## What do you need?
 
 1. ARDUINO UNO
-2. 4-Digit 7-Segment Display
-3. A Pressure Sensor
-4. Jumper wires (generic)
-5. Toggle Switches
+2. 4-Digit 7-Segment Display(Output)
+3. A Pressure Sensor(Input)
+4. LED light bulb (Output)
+5. Jumper wires (generic)
+6. Toggle Switches
 
 ## How does this work?
 
+Once the pressure sensor is triggered, the LED light bulb lights up, and the Digital display starts to count down.
+The countdown will only continue when there's pressure(the cup is on the timer). 
+If the pressure is released before the count down time reaches zero, the timer restarts, and the LED light and digital display turn off.
+Else if the count down reaches zero, the LED light and the digital display turn off.
+
+Here are some demo gif:
 1. Trigger the timer by holding the pressure sensor, start the count down.
 <img src="https://github.com/dondendon/prototyping_teatimer/blob/master/img/count_1.gif" width="500" />
 
